@@ -2,7 +2,7 @@
 
 ### **Automated voice memo processing with Whisper, NLP sentiment analysis, and cloud storage sync across Google Cloud & iCloud.**  
 
-Originally a project to combat the troubles of exploring mindfulness with journaling in a hyper-focused, fast-paced, and constantly changing world, This project allows users, with a tap of an icon, **to record a voice memo on their phone, automatically upload it to Google Cloud Storage, transcribe it using OpenAI's Whisper, analyze sentiment, and generate critical but gentle insights with ChatGPT**. The results are saved as text files in **Google Cloud Storage and iCloud**, made as intuitively possible by Apple's Shortcut app making them instantly accessible across devices.  
+Originally to combat the troubles of exploring mindfulness with journaling in a hyper-focused and constantly changing world, this project allows users, with a tap of an icon, **to record a voice memo on their phone, automatically upload it to Google Cloud Storage, transcribe it using OpenAI's Whisper, analyze sentiment, and generate critical but gentle insights with ChatGPT**. The results are saved as text files in **Google Cloud Storage and iCloud**, made as intuitively possible by Apple's Shortcut app making them instantly accessible across devices.  
 
 ---
 
