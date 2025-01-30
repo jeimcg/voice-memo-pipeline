@@ -1,0 +1,38 @@
+# Virtual Environment
+venv/
+env/
+
+# Compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# System-specific files
+.DS_Store
+Thumbs.db
+
+# Google Cloud Credentials, API Keys, CONFIG
+*.json  
+
+# Logs and temporary files
+*.log
+logs/
+
+# Processed & Transcription Files
+data/
+downloads/
+data/processed/
+data/inbox/
+data/transcriptions/
+data/processed_transcriptions/
+
+# Editor-specific files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Cached dependencies
+pip-wheel-metadata/
+*.egg-info/
